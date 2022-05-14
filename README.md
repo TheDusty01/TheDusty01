@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Hello there, I'm Dusty
+
+I'm interested and experienced in fullstack web development, backend development, reverse engineering & game engine development aswell as server hosting & management. Mainly coding in C# and C/C++ but I'm also experienced in other languages such as JavaScript, Python and many more. \
+I'm also currently studying Computer Science and freelancing.
+
+Here on my GitHub profile you'll mostly find libraries I've written and some personal projects.
+
+### 📫 How to get in touch
+- [dusty.solutions](https://dusty.solutions)
+- **Dusty#0001** on Discord
+
+### 💼 Ask me for work
+Send me a message through any of my contact information.
+
+### 📊 Stats
+![Dusty's github stats](https://github-readme-stats.vercel.app/api?username=TheDusty01&show_icons=true&theme=dracula)
 
 <!--
-**TheDusty01/TheDusty01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+GitHub badge
+[![](https://img.shields.io/badge/-@TheDusty01-%23181717?style=flat-square&logo=github)](https://github.com/TheDusty01)
 -->
