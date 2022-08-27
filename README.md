@@ -7,6 +7,7 @@ Here on my GitHub profile you'll mostly find libraries I've written and some per
 
 ### 📫 How to get in touch
 - [dusty.solutions](https://dusty.solutions)
+- info@dusty.solutions
 - **Dusty#0001** on Discord
 
 ### 💼 Ask me for work
